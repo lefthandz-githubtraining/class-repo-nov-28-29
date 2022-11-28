@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+2022/11/28 Takamasa Mori
 
 ![snowoctocat](https://octodex.github.com/images/snowoctocat.png)
 {: .center}
