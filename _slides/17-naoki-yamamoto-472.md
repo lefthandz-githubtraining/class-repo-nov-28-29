@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+もう一つの候補はラーメンでした
 
 ![boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
 {: .center}
