@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Test Takao Henkou
+conflict テスト用
 
 ![skatetocat](https://octodex.github.com/images/skatetocat.png)
 {: .center}
