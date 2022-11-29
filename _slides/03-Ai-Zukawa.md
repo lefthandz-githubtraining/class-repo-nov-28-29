@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-昨日はオムライスを食べました🥚
+リアル脱出ゲームに行きました🤡
 
 ![minertocat](https://octodex.github.com/images/minertocat.png)
 {: .center}
